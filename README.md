@@ -22,6 +22,7 @@ ou can build all sub-projects at once using Gradle:
 gradle clean build -x test
 
 Full Guide for building the APK:
+### build dashj
 
 $ git clone https://github.com/knolza/dashj.git
 
@@ -31,6 +32,7 @@ $ git checkout gamblr-0.1
 
 $ mvn clean install -DskipTests
 
+### build java-wns-resolver
 
 $ git clone https://github.com/knolza/java-wns-resolver.git
 
@@ -40,6 +42,7 @@ $ git checkout gamblr-0.1
 
 $ mvn clean install -DskipTests
 
+### build Gambler-Wallet
 
 $ cd ..
 
