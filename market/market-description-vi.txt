@@ -14,7 +14,7 @@ Bạn có thể tìm hiểu thêm về Gamblr tại
 http://darkcoin.io
 
 Nếu bạn có ý tưởng đóng góp cho Gamblr Wallet, hãy truy cập vào trang web
-https://github.com/HashEngineering/darkcoin-wallet
+https://github.com/knolza/gamblr-wallet
 
 Giấy phép: GPLv3
 Sử dụng với sự cẩn trọng của riêng bạn!

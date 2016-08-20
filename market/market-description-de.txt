@@ -20,7 +20,7 @@ Gamblr Wallet ist <b>Open Source</b> und <b>Freie Software</b>. Lizenz: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.de.html
 
 Unser Source Code ist auf GitHub verfügbar:
-https://github.com/HashEngineering/darkcoin-wallet
+https://github.com/knolza/gamblr-wallet
 
 Alle Übersetzungen werden auf Transifex organisiert:
 https://www.transifex.com/dash/dash-wallet/

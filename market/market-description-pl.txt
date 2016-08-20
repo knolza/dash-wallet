@@ -15,7 +15,7 @@ Dowiedz się więcej o Gamblr
 http://darkcoin.io
 
 Jeśli chcesz przyczynić się do rozwoju Gamblr Wallet to projekt znajduje się pod adresem
-https://github.com/HashEngineering/darkcoin-wallet
+https://github.com/knolza/gamblr-wallet
 
 Licencja: GPLv3
 Używasz na własne ryzyko!

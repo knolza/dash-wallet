@@ -20,7 +20,7 @@ Gamblr Wallet це <b>безкоштовний додаток</b> з <b>відк
 https://www.gnu.org/licenses/gpl-3.0.ru.html
 
 Початковий код додатку доступний на GitHub:
-https://github.com/HashEngineering/darkcoin-wallet
+https://github.com/knolza/gamblr-wallet
 
 Всі переклади зроблені через Transifex:
 https://www.transifex.com/dash/dash-wallet/

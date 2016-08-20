@@ -14,7 +14,7 @@ Anda dapat mengetahui lebih mengenai Gamblr di
 http://darkcoin.io
 
 Jika Anda ingin berkontribusi kepada Gamblr Wallet, proyeknya berada di
-https://github.com/HashEngineering/darkcoin-wallet
+https://github.com/knolza/gamblr-wallet
 
 Lisensi: GPLv3
 Gunakan dengan resiko Anda!

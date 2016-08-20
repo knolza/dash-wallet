@@ -15,7 +15,7 @@
 http://darkcoin.io
 
 إذا أردت المساهمة في مشروع محفظة البيتكوين Gamblr Wallet، قم بزيارة
-https://github.com/HashEngineering/darkcoin-wallet
+https://github.com/knolza/gamblr-wallet
 
 الرخصة رقم GPLv3
 استخدم البرنامج على مسؤوليتك الخاصة!

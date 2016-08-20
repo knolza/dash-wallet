@@ -15,7 +15,7 @@ Viac informácií o Dashe
 http://darkcoin.io
 
 Ak chcete prispieť do projektu Gamblr Wallet nájdete ho na adrese
-https://github.com/HashEngineering/darkcoin-wallet
+https://github.com/knolza/gamblr-wallet
 
 Licencia: GPLv3
 Použitie len na vlastné riziko!

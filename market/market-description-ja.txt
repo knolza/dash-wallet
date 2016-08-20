@@ -21,7 +21,7 @@ Gamblr Walletは<b>オープンソース</b>であり、<b>自由ソフトウェ
 https://www.gnu.org/licenses/gpl-3.0.ja.html
 
 ソースコードはGithubにあります。
-https://github.com/HashEngineering/darkcoin-wallet
+https://github.com/knolza/gamblr-wallet
 
 全ての翻訳はTransifexで管理されています:
 https://www.transifex.com/dash/dash-wallet/
