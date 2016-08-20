@@ -19,7 +19,7 @@
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Ο κώδικάς μας είναι διαθέσιμος στο GitHub.
-https://github.com/HashEngineering/dash-wallet
+https://github.com/knolza/gamblr-wallet
 
 Διαχείρηση όλων των μεταφράσεων μέσω του Transifex:
 https://www.transifex.com/dash/dash-wallet/

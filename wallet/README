@@ -72,7 +72,7 @@ Finally, you can build Gamblr Wallet and sign it with your development key. Agai
 use
 
 	# first time only
-	git clone -b master https://github.com/HashEngineering/dash-wallet.git dash-wallet
+	git clone -b master https://github.com/knolza/gamblr-wallet.git gamblr-wallet
 
 	# each time
 	cd dash-wallet
