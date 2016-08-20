@@ -34,7 +34,7 @@ import android.util.AttributeSet;
 import android.view.View;
 
 import com.google.zxing.ResultPoint;
-import hashengineering.darkcoin.wallet.R;
+import knolza.gamblr.wallet.R;
 
 /**
  * @author Andreas Schildbach

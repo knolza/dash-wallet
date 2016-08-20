@@ -43,8 +43,8 @@ import android.widget.TextView;
 
 import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.util.GenericUtils;
-import hashengineering.darkcoin.wallet.R;
 import de.schildbach.wallet.util.MonetarySpannable;
+import knolza.gamblr.wallet.R;
 
 /**
  * @author Andreas Schildbach

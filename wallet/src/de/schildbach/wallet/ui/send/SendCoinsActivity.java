@@ -35,7 +35,7 @@ import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.data.PaymentIntent;
 import de.schildbach.wallet.ui.AbstractBindServiceActivity;
 import de.schildbach.wallet.ui.HelpDialogFragment;
-import hashengineering.darkcoin.wallet.R;
+import knolza.gamblr.wallet.R;
 
 /**
  * @author Andreas Schildbach

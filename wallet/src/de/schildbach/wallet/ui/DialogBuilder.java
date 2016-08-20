@@ -28,7 +28,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
-import hashengineering.darkcoin.wallet.R;
+import knolza.gamblr.wallet.R;
 
 /**
  * @author Andreas Schildbach

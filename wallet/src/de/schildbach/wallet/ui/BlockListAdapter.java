@@ -45,7 +45,7 @@ import android.widget.TextView;
 import de.schildbach.wallet.AddressBookProvider;
 import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.util.WalletUtils;
-import hashengineering.darkcoin.wallet.R;
+import knolza.gamblr.wallet.R;
 
 /**
  * @author Andreas Schildbach

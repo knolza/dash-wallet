@@ -33,7 +33,7 @@ import android.text.format.DateUtils;
 import com.google.common.base.Strings;
 
 import de.schildbach.wallet.ExchangeRatesProvider.ExchangeRate;
-import hashengineering.darkcoin.wallet.R;
+import knolza.gamblr.wallet.R;
 
 /**
  * @author Andreas Schildbach

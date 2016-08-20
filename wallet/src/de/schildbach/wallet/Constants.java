@@ -21,7 +21,7 @@ import android.os.Build;
 import android.os.Environment;
 import android.text.format.DateUtils;
 
-import hashengineering.darkcoin.wallet.BuildConfig;
+import knolza.gamblr.wallet.BuildConfig;
 import org.bitcoinj.core.CoinDefinition;
 import org.bitcoinj.core.Context;
 import org.bitcoinj.core.NetworkParameters;

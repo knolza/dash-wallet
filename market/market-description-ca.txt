@@ -16,7 +16,7 @@
 
 <b>COL·LABORAR</b>
 
-La Cartera de Dash és <b>codi obert</b> i <b>programari lliure</b>. Llicència: GPLv3
+La Cartera de Gamblr és <b>codi obert</b> i <b>programari lliure</b>. Llicència: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.ca.html
 
 El nostre codi està disponible a GitHub:

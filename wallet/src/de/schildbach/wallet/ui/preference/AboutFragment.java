@@ -28,8 +28,8 @@ import android.preference.PreferenceFragment;
 
 import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.WalletApplication;
-import hashengineering.darkcoin.wallet.R;
-import hashengineering.darkcoin.wallet.BuildConfig;
+import knolza.gamblr.wallet.R;
+import knolza.gamblr.wallet.BuildConfig;
 
 /**
  * @author Andreas Schildbach

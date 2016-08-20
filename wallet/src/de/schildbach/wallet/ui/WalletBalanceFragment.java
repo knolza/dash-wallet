@@ -47,7 +47,7 @@ import de.schildbach.wallet.ExchangeRatesProvider.ExchangeRate;
 import de.schildbach.wallet.WalletApplication;
 import de.schildbach.wallet.service.BlockchainState;
 import de.schildbach.wallet.service.BlockchainStateLoader;
-import hashengineering.darkcoin.wallet.R;
+import knolza.gamblr.wallet.R;
 import de.schildbach.wallet.ui.send.SendCoinsActivity;
 
 /**

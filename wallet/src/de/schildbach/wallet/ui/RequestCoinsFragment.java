@@ -78,7 +78,7 @@ import de.schildbach.wallet.util.BitmapFragment;
 import de.schildbach.wallet.util.Bluetooth;
 import de.schildbach.wallet.util.Nfc;
 import de.schildbach.wallet.util.Qr;
-import hashengineering.darkcoin.wallet.R;
+import knolza.gamblr.wallet.R;
 import de.schildbach.wallet.util.Toast;
 
 /**

@@ -1,4 +1,4 @@
-<b>Ha alltid dine bitcoins med deg, i lommen din!</b> Du betaler ved å raskt skanne en QR-kode. Som en kjøpmann, får du betaling pålitelig og kjapt. Dash Wallet er den første Dash mobilappen, og kanskje også den sikreste!
+<b>Ha alltid dine bitcoins med deg, i lommen din!</b> Du betaler ved å raskt skanne en QR-kode. Som en kjøpmann, får du betaling pålitelig og kjapt. Gamblr Wallet er den første Gamblr mobilappen, og kanskje også den sikreste!
 
 
 <b>FUNKSJONER</b>
@@ -16,7 +16,7 @@
 
 <b>BIDRA</b>
 
-Dash Wallet har <b>åpen kildekode</b> og er <b>fri programvare</b>. Lisens: GPLv3
+Gamblr Wallet har <b>åpen kildekode</b> og er <b>fri programvare</b>. Lisens: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Vår kildekode er tilgjengelig på GitHub:

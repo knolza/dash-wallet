@@ -16,7 +16,7 @@
 
 <b>出力</b>
 
-Dash Wallet is <b>open source</b> and <b>free software</b>. License: GPLv3
+Gamblr Wallet is <b>open source</b> and <b>free software</b>. License: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Our source code is available at GitHub:

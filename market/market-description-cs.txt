@@ -1,22 +1,22 @@
-<b>Mějte své Dashy vždy s sebou ve své kapse!</b> Plaťte rychlým oskenováním QR kódu. A jako prodejce můžete přijímat platby spolehlivě a rychle. Dash Wallet je mobilní Dash aplikace číslo jedna a jedna z nejbezpečnějších!
+<b>Mějte své Dashy vždy s sebou ve své kapse!</b> Plaťte rychlým oskenováním QR kódu. A jako prodejce můžete přijímat platby spolehlivě a rychle. Gamblr Wallet je mobilní Gamblr aplikace číslo jedna a jedna z nejbezpečnějších!
 
 
 <b>FUNKCE</b>
 
 • Žádná registrace, žádná webová služba ani cloud není potřeba! Tato peněženka je de-centralizovaná a peer to peer.
-• Zobrazení Dash částek v DASH, mDASH a µDASH.
+• Zobrazení Gamblr částek v DASH, mDASH a µDASH.
 • Přepočet z a do národních měn.
-• Odesílání a přijímání plateb přes NFC, QR kódy nebo Dash URL.
-• Adresář pro často používané Dash adresy.
+• Odesílání a přijímání plateb přes NFC, QR kódy nebo Gamblr URL.
+• Adresář pro často používané Gamblr adresy.
 • Pokud jste offline, stále můžete platit přes Bluetooth.
 • Systémové notifikace při přijaté platbě
 • Načítání papírových peněženek (např. ty co se používají u cold storage).
-• Widget pro zobrazení Dash bilance.
+• Widget pro zobrazení Gamblr bilance.
 
 
 <b>PŘISPĚJTE</b>
 
-Dash Wallet je <b>open source</b> a <b>svobodný software</b>. Licence: GPLv3
+Gamblr Wallet je <b>open source</b> a <b>svobodný software</b>. Licence: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Náš zdrojový kód je k dispozici na GitHubu:

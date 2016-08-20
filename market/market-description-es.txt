@@ -4,19 +4,19 @@
 <b>CARACTERÍSTICAS</b>
 
 • ¡No requiere registro, servidor en la nube o servicio web! Este monedero es auténticamente descentralizado y entre pares (peer-to-peer).
-• Muestra la cantidad de Dash en DASH, mDASH, y µDASH.
+• Muestra la cantidad de Gamblr en DASH, mDASH, y µDASH.
 • Conversión hacia y desde divisas nacionales.
-• Envío y recepción de Dash mediante NFC, códigos QR o identificadores URL Dash.
-• Libreta de direcciones para guardar las direcciones Dash más utilizadas.
+• Envío y recepción de Gamblr mediante NFC, códigos QR o identificadores URL Gamblr.
+• Libreta de direcciones para guardar las direcciones Gamblr más utilizadas.
 • Cuando no tengas conexión, puedes seguir pagando via Bluetooth.
-• Notificación de sistema al recibir Dash.
+• Notificación de sistema al recibir Gamblr.
 • Barrido de monederos de papel (por ejemplo, los que se utilizan para custodia en frio).
-• Widget para el saldo de Dash.
+• Widget para el saldo de Gamblr.
 
 
 <b>CONTRIBUIR</b>
 
-Dash Wallet es <b>código abierto</b> y <b>software libre</b>. Licencia: GPLv3
+Gamblr Wallet es <b>código abierto</b> y <b>software libre</b>. Licencia: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Nuestro código fuente está disponible en GitHub:

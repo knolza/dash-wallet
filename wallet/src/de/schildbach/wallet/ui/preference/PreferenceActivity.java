@@ -27,7 +27,7 @@ import android.view.LayoutInflater;
 import android.view.MenuItem;
 import android.widget.LinearLayout;
 
-import hashengineering.darkcoin.wallet.R;
+import knolza.gamblr.wallet.R;
 
 /**
  * @author Andreas Schildbach

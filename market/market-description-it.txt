@@ -1,21 +1,21 @@
-<b>Porta i tuoi Dash sempre con te, in tasca!</b>  Paghi velocemente scansionando un QR-code. Come un commerciante, riceverai i pagamenti sicuri e istantanei. Dash Wallet è la prima Dash app mobile, e probabilmente anche la più sicura!
+<b>Porta i tuoi Gamblr sempre con te, in tasca!</b>  Paghi velocemente scansionando un QR-code. Come un commerciante, riceverai i pagamenti sicuri e istantanei. Gamblr Wallet è la prima Gamblr app mobile, e probabilmente anche la più sicura!
 
 <b>CARATTERISTICHE</b>
 
 • Non è necessaria alcuna registrazione, servizio web o cloud! Questo portafoglio è de-centralizzato e peer to peer.
-• Mostra l'ammontare di Dash in DASH, mDASH e µDASH.
+• Mostra l'ammontare di Gamblr in DASH, mDASH e µDASH.
 • Conversione verso e dalle monete nazionali.
-• Invio e ricevimento di Dash tramite NFC, codici QR o URL Dash.
-• Rubrica degli indirizzi per usare indirizzi Dash regolarmente.
+• Invio e ricevimento di Gamblr tramite NFC, codici QR o URL Gamblr.
+• Rubrica degli indirizzi per usare indirizzi Gamblr regolarmente.
 • Quando sei offline, puoi comunque ancora pagare via Bluetooth.
 • Sistema di notifica per le monete ricevute.
 • Svuotamento di portafogli cartacei (es: quelli utilizzati come depositi offline)
-• App Widget per il saldo Dash
+• App Widget per il saldo Gamblr
 
 
 <b>CONTRIBUISCI</b>
 
-Dash Wallet è <b>open source</b> e <b>software libero</b>. Licenza: GPLv3
+Gamblr Wallet è <b>open source</b> e <b>software libero</b>. Licenza: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Il nostro codice sorgente è disponibile su GitHub

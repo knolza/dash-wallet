@@ -23,7 +23,7 @@ import android.util.AttributeSet;
 
 import org.bitcoinj.utils.MonetaryFormat;
 
-import hashengineering.darkcoin.wallet.R;
+import knolza.gamblr.wallet.R;
 
 public class ToolbarCurrencyTextView extends CurrencyTextView
 {

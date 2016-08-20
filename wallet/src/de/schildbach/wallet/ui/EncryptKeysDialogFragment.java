@@ -55,7 +55,7 @@ import android.widget.TextView;
 import com.google.protobuf.ByteString;
 
 import de.schildbach.wallet.WalletApplication;
-import hashengineering.darkcoin.wallet.R;
+import knolza.gamblr.wallet.R;
 
 /**
  * @author Andreas Schildbach

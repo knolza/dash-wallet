@@ -76,14 +76,14 @@ android {
                 }
             }
             productFlavors {
-                beta {
-                    applicationId = "hashengineering.dash.wallet.beta"
-                }
                 prod {
-                    applicationId = "hashengineering.darkcoin.wallet"
+                    applicationId = "knolza.gamblr.wallet"
+                }
+                beta {
+                    applicationId = "knolza.gamblr.wallet.beta"
                 }
                 _testNet3 {
-                    applicationId = "hashengineering.darkcoin.wallet_test"
+                    applicationId = "knolza.gamblr.wallet_test"
                 }
             }
 

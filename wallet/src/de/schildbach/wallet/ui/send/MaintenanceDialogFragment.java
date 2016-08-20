@@ -58,7 +58,7 @@ import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.WalletApplication;
 import de.schildbach.wallet.ui.AbstractWalletActivity;
 import de.schildbach.wallet.ui.DialogBuilder;
-import hashengineering.darkcoin.wallet.R;
+import knolza.gamblr.wallet.R;
 
 
 /**
