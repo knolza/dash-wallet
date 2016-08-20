@@ -22,11 +22,11 @@ ou can build all sub-projects at once using Gradle:
 gradle clean build -x test
 
 Full Guide for building the APK:
-### build dashj
+### build gamblrj
 
-$ git clone https://github.com/knolza/dashj.git
+$ git clone https://github.com/knolza/gamblrj.git
 
-$ cd dashj
+$ cd gamblrj
 
 $ git checkout gamblr-0.1
 

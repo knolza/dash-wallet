@@ -89,13 +89,13 @@ password.
 
 RECOVERING FROM PROTOBUF WALLET FORMAT
 
-We need wallet-tool from darkcoinj. First, in a working directory, let's get darkcoinj:
+We need wallet-tool from gamblrj. First, in a working directory, let's get gamblrj:
 
-	git clone -b release-0.13 https://github.com/HashEngineering/dash.git
+	git clone -b release-0.14 https://github.com/knolza/gamblr-wallet.git
 
 Make sure everything is compiled and ready to go by using once:
 
-	cd dashj/tools
+	cd gamblrj/tools
 	./wallet-tool
 
 Now use wallet-tool to sync the wallet from your backup:
