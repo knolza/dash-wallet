@@ -40,9 +40,9 @@
   <string name="wallet_options_encrypt_keys_change">送金用PINを変更</string>
   <string name="wallet_options_safety">安全の注意事項</string>
   <string name="wallet_options_donate">チップ/寄付</string>
-  <string name="wallet_donate_address_label">Dash Walletへ寄付する</string>
+  <string name="wallet_donate_address_label">Gamblr Walletへ寄付する</string>
   <string name="wallet_low_storage_dialog_title">内部デバイスのストレージ容量が残りわずかです!</string>
-  <string name="wallet_low_storage_dialog_msg">Dash Walletはトランザクションやブロックを記憶するのに内部ストレージを使用します。もし容量が不足した場合、動作しなくなりあなたのビットコインが危機にさらされるでしょう!\n\n不要なアプリを削除するためにアプリケーションマネージャを開きますか?</string>
+  <string name="wallet_low_storage_dialog_msg">Gamblr Walletはトランザクションやブロックを記憶するのに内部ストレージを使用します。もし容量が不足した場合、動作しなくなりあなたのビットコインが危機にさらされるでしょう!\n\n不要なアプリを削除するためにアプリケーションマネージャを開きますか?</string>
   <string name="wallet_low_storage_dialog_button_apps">アプリの管理</string>
   <string name="wallet_timeskew_dialog_title">日付と時刻の設定を確認してください</string>
   <string name="wallet_timeskew_dialog_msg">デバイスの時刻が%d分ずれています。この問題のためビットコインのやり取りができなくなる可能性があります。\n\n日付と時刻とタイムゾーンの設定を確認し、必要であれば修正してください。</string>
@@ -293,7 +293,7 @@
   <string name="notification_peers_connected_msg">%dピアが接続済</string>
   <string name="notification_inactivity_title">まだこの端末にビットコインが残っています!</string>
   <string name="notification_inactivity_message">残金を他の場所に移さずにDash Walletアプリをアンインストールした場合、%sの残金は失なわれてしまうことに注意してください。</string>
-  <string name="notification_inactivity_message_donate">もしコインが必要ないのであれば、Dash Walletプロジェクトに寄付するという選択肢もあります。</string>
+  <string name="notification_inactivity_message_donate">もしコインが必要ないのであれば、Gamblr Walletプロジェクトに寄付するという選択肢もあります。</string>
   <string name="notification_inactivity_action_dismiss">後で再び通知する</string>
   <string name="notification_inactivity_action_dismiss_forever">後で通知しない</string>
   <!--generic buttons-->

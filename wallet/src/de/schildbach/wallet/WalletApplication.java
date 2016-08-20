@@ -143,7 +143,7 @@ public class WalletApplication extends Application
 
 		loadWalletFromProtobuf();
 
-		//Dash Specific - TODO:  need to separate out these parts.
+		//Gamblr Specific - TODO:  need to separate out these parts.
 		org.bitcoinj.core.Context context = wallet.getContext();
 
 		wallet.getContext().initDash(config.getLiteMode(), config.getInstantXEnabled());

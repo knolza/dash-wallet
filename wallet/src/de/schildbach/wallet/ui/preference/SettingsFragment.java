@@ -55,7 +55,7 @@ public final class SettingsFragment extends PreferenceFragment implements OnPref
 	private Preference btcPrecisionPreference;
 	private Preference trustedPeerPreference;
 	private Preference trustedPeerOnlyPreference;
-	//Dash Specific
+	//Gamblr Specific
 	private Preference allowInstantXPreference;
 	private Preference liteModePreference;
 
@@ -97,7 +97,7 @@ public final class SettingsFragment extends PreferenceFragment implements OnPref
 		dataUsagePreference.setEnabled(pm.resolveActivity(dataUsagePreference.getIntent(), 0) != null);
 
 
-		//Dash Specific
+		//Gamblr Specific
 		allowInstantXPreference = findPreference(Configuration.PREFS_KEY_INSTANTX_ENABLED);
 		allowInstantXPreference.setOnPreferenceChangeListener(this);
 		liteModePreference = findPreference(Configuration.PREFS_KEY_LITE_MODE);

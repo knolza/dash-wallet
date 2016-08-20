@@ -3,11 +3,11 @@
   <string name="help_wallet">
 <![CDATA[
 		<p>
-			Horní levá část obrazovky zobrazuje Vaši aktuální Dash bilanci včetně odpovídající částky ve vaší lokální měně.
+			Horní levá část obrazovky zobrazuje Vaši aktuální Gamblr bilanci včetně odpovídající částky ve vaší lokální měně.
 			Kliknutím na částku přejdete do seznamu lokálních měn, kde si můžete vybrat jinou.
 		</p>
 		<p>
-			QR kód na pravé straně obsahuje Vaši Dash adresu a může být použita pro naskenování druhou stranou.
+			QR kód na pravé straně obsahuje Vaši Gamblr adresu a může být použita pro naskenování druhou stranou.
 			Klepněte na QR kód pro zobrazení větší verze.
 		</p>
 		<p>
@@ -24,7 +24,7 @@
   <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Pomocí tohoto dialogu můžete vyžádat Dashy od někoho jiného (kdo by měl také mít nainstalovanou aplikaci Dash Wallet).
+			Pomocí tohoto dialogu můžete vyžádat Dashy od někoho jiného (kdo by měl také mít nainstalovanou aplikaci Gamblr Wallet).
 		</p>
 		<p>
 			Nejprve zadejte množství Dashů, které chcete vyžádat.
@@ -60,7 +60,7 @@
 		</p>
 		<p>
 			Transakce můžete provádět, i když jste právě offline.
-			Budou provedeny při dalším spuštění aplikace Dash Wallet.
+			Budou provedeny při dalším spuštění aplikace Gamblr Wallet.
 			Pokud chcete transakci provést co nejrychleji, ujistěte se, že máte rychlé připojení (například jste připojeni pomocí bezdrátové sítě).
 		</p>
 		<p>
@@ -76,12 +76,12 @@
 			Několik slov o bezpečnosti vašich Dashů:
 		</p>
 		<p>
-			Dashy v aplikaci Dash Wallet jsou uloženy ve vašem zařízení.
+			Dashy v aplikaci Gamblr Wallet jsou uloženy ve vašem zařízení.
 			<b>Pokud o zařízení přijdete, přijdete i o Dashy v něm.</b>
 			Stejně jako při ztrátě normální peněženky.
 		</p>
 		<p>
-			<b>Před odinstalací aplikace Dash Wallet</b> (nebo při odstraňování dat/wipe), <b> si přepošlete zůstatek do jiné peněženky</b>.
+			<b>Před odinstalací aplikace Gamblr Wallet</b> (nebo při odstraňování dat/wipe), <b> si přepošlete zůstatek do jiné peněženky</b>.
 			Jakékoliv zůstavší Bitcony budou nenávratně ztraceny.
 		</p>
 		<p>
@@ -95,7 +95,7 @@
 		</p>
 		<p>
 			Neriskujte zbytečně!
-			<b>V aplikaci Dash Wallet mějte pouze malé částky</b> pro rychlé použití.
+			<b>V aplikaci Gamblr Wallet mějte pouze malé částky</b> pro rychlé použití.
 		</p>
 	]]>
 	</string>

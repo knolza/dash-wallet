@@ -107,7 +107,7 @@ public class BlockchainServiceImpl extends android.app.Service implements Blockc
 	private BlockStore blockStore;
 	private File blockChainFile;
 	private BlockChain blockChain;
-	private File mncachePath; //Dash
+	private File mncachePath; //Gamblr
 	@Nullable
 	private PeerGroup peerGroup;
 
@@ -772,12 +772,12 @@ public class BlockchainServiceImpl extends android.app.Service implements Blockc
 
 		application.saveWallet();
 
-		//Dash Specific
+		//Gamblr Specific
 
 		//Constants.NETWORK_PARAMETERS.masternodeDB.write(Constants.NETWORK_PARAMETERS.masternodeManager);
 		application.saveMasternodes();
 
-		//Dash Specific
+		//Gamblr Specific
 
 		if (wakeLock.isHeld())
 		{
